@@ -16,7 +16,7 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hi there!'
 homeIntroContent = """
 I am a Software Engineer based in Stockholm, Sweden. I enjoy building and leading tech teams, and I get extra excited 
 when I get to combine that with building products from scratch.
